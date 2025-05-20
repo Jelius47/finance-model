@@ -1,0 +1,198 @@
+=== Risk-Managed Investment Trading Log ===
+Initial Investment: $100.00
+Final Portfolio Value: $106.99
+Total Return: 6.99%
+Annualized Return: 10.03%
+Maximum Drawdown: 3.90%
+
+=== Risk Management Improvements ===
+Original Max Drawdown: 17.54%
+Drawdown Reduction: 13.64%
+Performance Ratio: 0.59x
+
+=== Risk Management Techniques Applied ===
+1. Position Sizing: Adjusted position sizes based on prediction confidence
+2. Stop-Loss Protection: Implemented 5% fixed and 7% trailing stop losses
+3. Volatility Adjustment: Reduced exposure during high volatility periods
+4. Trend Following: Aligned positions with overall market trend
+5. Profit Taking: Implemented 10% profit-taking threshold
+
+=== Detailed Trading Actions ===
+Day 0: Initial position
+Day 1: HOLD (Cash: $100.00, Shares: 0.0000)
+Day 2: HOLD (Cash: $100.00, Shares: 0.0000)
+Day 3: HOLD (Cash: $100.00, Shares: 0.0000)
+Day 4: HOLD (Cash: $100.00, Shares: 0.0000)
+Day 5: HOLD (Cash: $100.00, Shares: 0.0000)
+Day 6: HOLD (Cash: $100.00, Shares: 0.0000)
+Day 7: HOLD (Cash: $100.00, Shares: 0.0000)
+Day 8: HOLD (Cash: $100.00, Shares: 0.0000)
+Day 9: HOLD (Cash: $100.00, Shares: 0.0000)
+Day 10: HOLD (Cash: $100.00, Shares: 0.0000)
+Day 11: HOLD (Cash: $100.00, Shares: 0.0000)
+Day 12: HOLD (Cash: $100.00, Shares: 0.0000)
+Day 13: HOLD (Cash: $100.00, Shares: 0.0000)
+Day 14: HOLD (Cash: $100.00, Shares: 0.0000)
+Day 15: HOLD (Cash: $100.00, Shares: 0.0000)
+Day 16: HOLD (Cash: $100.00, Shares: 0.0000)
+Day 17: HOLD (Cash: $100.00, Shares: 0.0000)
+Day 18: HOLD (Cash: $100.00, Shares: 0.0000)
+Day 19: HOLD (Cash: $100.00, Shares: 0.0000)
+Day 20: HOLD (Cash: $100.00, Shares: 0.0000)
+Day 21: HOLD (Cash: $100.00, Shares: 0.0000)
+Day 22: HOLD (Cash: $100.00, Shares: 0.0000)
+Day 23: HOLD (Cash: $100.00, Shares: 0.0000)
+Day 24: HOLD (Cash: $100.00, Shares: 0.0000)
+Day 25: HOLD (Cash: $100.00, Shares: 0.0000)
+Day 26: HOLD (Cash: $100.00, Shares: 0.0000)
+Day 27: HOLD (Cash: $100.00, Shares: 0.0000)
+Day 28: HOLD (Cash: $100.00, Shares: 0.0000)
+Day 29: HOLD (Cash: $100.00, Shares: 0.0000)
+Day 30: HOLD (Cash: $100.00, Shares: 0.0000)
+Day 31: HOLD (Cash: $100.00, Shares: 0.0000)
+Day 32: HOLD (Cash: $100.00, Shares: 0.0000)
+Day 33: HOLD (Cash: $100.00, Shares: 0.0000)
+Day 34: HOLD (Cash: $100.00, Shares: 0.0000)
+Day 35: HOLD (Cash: $100.00, Shares: 0.0000)
+Day 36: HOLD (Cash: $100.00, Shares: 0.0000)
+Day 37: HOLD (Cash: $100.00, Shares: 0.0000)
+Day 38: HOLD (Cash: $100.00, Shares: 0.0000)
+Day 39: HOLD - No clear signal
+Day 40: HOLD (Cash: $100.00, Shares: 0.0000)
+Day 41: HOLD (Cash: $100.00, Shares: 0.0000)
+Day 42: HOLD (Cash: $100.00, Shares: 0.0000)
+Day 43: HOLD (Cash: $100.00, Shares: 0.0000)
+Day 44: HOLD (Cash: $100.00, Shares: 0.0000)
+Day 45: HOLD (Cash: $100.00, Shares: 0.0000)
+Day 46: HOLD (Cash: $100.00, Shares: 0.0000)
+Day 47: HOLD (Cash: $100.00, Shares: 0.0000)
+Day 48: HOLD (Cash: $100.00, Shares: 0.0000)
+Day 49: HOLD (Cash: $100.00, Shares: 0.0000)
+Day 50: HOLD (Cash: $100.00, Shares: 0.0000)
+Day 51: HOLD (Cash: $100.00, Shares: 0.0000)
+Day 52: HOLD (Cash: $100.00, Shares: 0.0000)
+Day 53: HOLD (Cash: $100.00, Shares: 0.0000)
+Day 54: HOLD (Cash: $100.00, Shares: 0.0000)
+Day 55: HOLD (Cash: $100.00, Shares: 0.0000)
+Day 56: HOLD (Cash: $100.00, Shares: 0.0000)
+Day 57: HOLD (Cash: $100.00, Shares: 0.0000)
+Day 58: HOLD - No clear signal
+Day 59: HOLD - No clear signal
+Day 60: HOLD - No clear signal
+Day 61: HOLD - No clear signal
+Day 62: HOLD (Cash: $100.00, Shares: 0.0000)
+Day 63: HOLD (Cash: $100.00, Shares: 0.0000)
+Day 64: HOLD (Cash: $100.00, Shares: 0.0000)
+Day 65: HOLD (Cash: $100.00, Shares: 0.0000)
+Day 66: HOLD (Cash: $100.00, Shares: 0.0000)
+Day 67: HOLD (Cash: $100.00, Shares: 0.0000)
+Day 68: HOLD (Cash: $100.00, Shares: 0.0000)
+Day 69: HOLD (Cash: $100.00, Shares: 0.0000)
+Day 70: HOLD (Cash: $100.00, Shares: 0.0000)
+Day 71: HOLD (Cash: $100.00, Shares: 0.0000)
+Day 72: HOLD (Cash: $100.00, Shares: 0.0000)
+Day 73: HOLD (Cash: $100.00, Shares: 0.0000)
+Day 74: HOLD (Cash: $100.00, Shares: 0.0000)
+Day 75: HOLD (Cash: $100.00, Shares: 0.0000)
+Day 76: HOLD (Cash: $100.00, Shares: 0.0000)
+Day 77: HOLD (Cash: $100.00, Shares: 0.0000)
+Day 78: HOLD (Cash: $100.00, Shares: 0.0000)
+Day 79: HOLD (Cash: $100.00, Shares: 0.0000)
+Day 80: HOLD (Cash: $100.00, Shares: 0.0000)
+Day 81: HOLD (Cash: $100.00, Shares: 0.0000)
+Day 82: HOLD (Cash: $100.00, Shares: 0.0000)
+Day 83: HOLD (Cash: $100.00, Shares: 0.0000)
+Day 84: HOLD (Cash: $100.00, Shares: 0.0000)
+Day 85: HOLD (Cash: $100.00, Shares: 0.0000)
+Day 86: HOLD (Cash: $100.00, Shares: 0.0000)
+Day 87: HOLD (Cash: $100.00, Shares: 0.0000)
+Day 88: HOLD (Cash: $100.00, Shares: 0.0000)
+Day 89: HOLD (Cash: $100.00, Shares: 0.0000)
+Day 90: HOLD (Cash: $100.00, Shares: 0.0000)
+Day 91: HOLD (Cash: $100.00, Shares: 0.0000)
+Day 92: HOLD (Cash: $100.00, Shares: 0.0000)
+Day 93: HOLD (Cash: $100.00, Shares: 0.0000)
+Day 94: HOLD (Cash: $100.00, Shares: 0.0000)
+Day 95: HOLD (Cash: $100.00, Shares: 0.0000)
+Day 96: HOLD (Cash: $100.00, Shares: 0.0000)
+Day 97: HOLD (Cash: $100.00, Shares: 0.0000)
+Day 98: HOLD (Cash: $100.00, Shares: 0.0000)
+Day 99: HOLD - No clear signal
+Day 100: HOLD - No clear signal
+Day 101: HOLD (Cash: $100.00, Shares: 0.0000)
+Day 102: HOLD (Cash: $100.00, Shares: 0.0000)
+Day 103: HOLD (Cash: $100.00, Shares: 0.0000)
+Day 104: HOLD - No clear signal
+Day 105: HOLD - No clear signal
+Day 106: HOLD - No clear signal
+Day 107: HOLD (Cash: $100.00, Shares: 0.0000)
+Day 108: HOLD - No clear signal
+Day 109: HOLD - No clear signal
+Day 110: BUY 0.1027 shares at $222.40 (Confidence: 0.76, Volatility: 1.0X)
+Day 111: HOLD - No clear signal
+Day 112: HOLD - No clear signal
+Day 113: HOLD - No clear signal
+Day 114: SELL 0.0496 shares at $229.61 (Confidence: 0.81)
+Day 115: SELL 0.0248 shares at $238.00 (Confidence: 0.78)
+Day 116: SELL 0.0106 shares at $239.10 (Confidence: 0.83)
+Day 117: SELL 0.0060 shares at $237.33 (Confidence: 0.75)
+Day 118: SELL 0.0040 shares at $235.74 (Confidence: 0.76)
+Day 119: HOLD - No clear signal
+Day 120: SELL 0.0028 shares at $232.54 (Confidence: 0.80)
+Day 121: SELL 0.0017 shares at $232.21 (Confidence: 0.77)
+Day 122: SELL 0.0012 shares at $232.96 (Confidence: 0.80)
+Day 123: SELL 0.0003 shares at $227.38 (Confidence: 0.73)
+Day 124: SELL 0.0003 shares at $227.65 (Confidence: 0.82)
+Day 125: SELL 0.0003 shares at $232.62 (Confidence: 0.81)
+Day 126: SELL 0.0002 shares at $236.87 (Confidence: 0.78)
+Day 127: SELL 0.0002 shares at $241.53 (Confidence: 0.86)
+Day 128: SELL 0.0001 shares at $244.60 (Confidence: 0.80)
+Day 129: SELL 0.0001 shares at $244.47 (Confidence: 0.76)
+Day 130: SELL 0.0001 shares at $244.87 (Confidence: 0.73)
+Day 131: SELL 0.0001 shares at $245.83 (Confidence: 0.85)
+Day 132: SELL 0.0001 shares at $245.55 (Confidence: 0.70)
+Day 133: SELL 0.0001 shares at $247.10 (Confidence: 0.73)
+Day 134: SELL 0.0000 shares at $247.04 (Confidence: 0.79)
+Day 135: SELL 0.0000 shares at $240.36 (Confidence: 0.71)
+Day 136: SELL 0.0000 shares at $237.30 (Confidence: 0.77)
+Day 137: SELL 0.0000 shares at $241.84 (Confidence: 0.76)
+Day 138: SELL 0.0000 shares at $238.03 (Confidence: 0.71)
+Day 139: SELL 0.0000 shares at $235.93 (Confidence: 0.73)
+Day 140: SELL 0.0000 shares at $235.74 (Confidence: 0.84)
+Day 141: SELL 0.0000 shares at $235.33 (Confidence: 0.73)
+Day 142: SELL 0.0000 shares at $239.07 (Confidence: 0.75)
+Day 143: SELL 0.0000 shares at $227.48 (Confidence: 0.74)
+Day 144: HOLD - No clear signal
+Day 145: HOLD - No clear signal
+Day 146: STOP LOSS TRIGGERED at $209.68 (Entry: $222.40)
+Day 147: HOLD - No clear signal
+Day 148: HOLD - No clear signal
+Day 149: HOLD - No clear signal
+Day 150: HOLD (Cash: $101.10, Shares: 0.0000)
+Day 151: HOLD - No clear signal
+Day 152: HOLD (Cash: $101.10, Shares: 0.0000)
+Day 153: HOLD (Cash: $101.10, Shares: 0.0000)
+Day 154: HOLD (Cash: $101.10, Shares: 0.0000)
+Day 155: HOLD (Cash: $101.10, Shares: 0.0000)
+Day 156: HOLD (Cash: $101.10, Shares: 0.0000)
+Day 157: HOLD (Cash: $101.10, Shares: 0.0000)
+Day 158: HOLD (Cash: $101.10, Shares: 0.0000)
+Day 159: HOLD (Cash: $101.10, Shares: 0.0000)
+Day 160: HOLD (Cash: $101.10, Shares: 0.0000)
+Day 161: BUY 0.1709 shares at $203.19 (Confidence: 0.76, Volatility: 1.3X)
+Day 162: STOP LOSS TRIGGERED at $188.38 (Entry: $203.19)
+Day 163: BUY 0.1382 shares at $181.46 (Confidence: 0.85, Volatility: 2.0X)
+Day 164: BUY 0.0687 shares at $172.42 (Confidence: 0.81, Volatility: 2.0X)
+Day 165: HOLD - No clear signal
+Day 166: BUY 0.0665 shares at $190.42 (Confidence: 0.84, Volatility: 3.2X)
+Day 167: HOLD - No clear signal
+Day 168: SELL 0.0715 shares at $202.52 (Confidence: 0.87)
+Day 169: SELL 0.0508 shares at $202.14 (Confidence: 0.84)
+Day 170: BUY 0.0693 shares at $194.27 (Confidence: 0.87, Volatility: 3.3X)
+Day 171: HOLD - No clear signal
+Day 172: BUY 0.0672 shares at $193.16 (Confidence: 0.84, Volatility: 3.4X)
+Day 173: HOLD - No clear signal
+Day 174: SELL 0.0707 shares at $204.60 (Confidence: 0.82)
+Day 175: SELL 0.0612 shares at $208.37 (Confidence: 0.94)
+Day 176: SELL 0.0383 shares at $209.28 (Confidence: 0.82)
+Day 177: SELL 0.0290 shares at $210.14 (Confidence: 0.83)
